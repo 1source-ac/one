@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="https://1src.tech"><img src="https://1src.tech/img/one-source-logo.b31ef470.png" alt="Markdownify" width="200"></a>
   <br>
   ONE
   <br>
