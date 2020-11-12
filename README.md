@@ -22,8 +22,8 @@ Enabling the digital-physical world of the future.
 :partly_sunny: Deploys to cloud or on-premise\
 
 ## Screenshots
-<kbd>
-  <a align="left" href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="10%"></a>
+<kbd width="45%">
+  <a align="left" href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG"></a>
 </kbd>
 <kbd>
   <a align="right" href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="45%"></a>
