@@ -17,7 +17,7 @@
 :necktie: **All entities merged into uniform data structure**\
 :floppy_disk: **State and History Management**\
 :chart_with_upwards_trend: **Rich dashboard system**\
-:chart_with_upwards_trend: **In-Browser "Digital Twin" Editor**\
+:cityscape: **In-Browser "Digital Twin" Editor**\
 :alarm_clock: **Fully real-time**\
 :world_map: **REST and GraphQL API**\
 :books: **Client libraries for JavaScript, Go, C++, Arduino and more**\
