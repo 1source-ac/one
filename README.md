@@ -20,7 +20,7 @@
 :chart_with_upwards_trend: **Rich dashboard system** _Chose from a variety of visual elements to present your infrastructure._\
 :cityscape: **In-Browser "Digital Twin" Editor** _Merge the physical and digital with ease._\
 :alarm_clock: **Fully real-time** _Know what's happening as it's happening._\
-:globe_with_meridians: **REST and GraphQL API** _Connect to third-party systems without over-fetching._\
+:globe_with_meridians: **REST and GraphQL API** _Allow third-party access without over-fetching._\
 :books: **Client libraries for Node, Go, C++, Arduino and more** _Tightly integrate into your favorite environment._\
 :closed_lock_with_key: **Granular access control**\
 :partly_sunny: **Deploys to cloud or on-premise**\
