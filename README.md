@@ -23,8 +23,8 @@ Enabling the digital-physical world of the future.
 
 ## Screenshots
 <kbd>
-  <a align="left" href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="450"></a>
+  <a align="left" href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="45%"></a>
 </kbd>
 <kbd>
-  <a align="right" href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="450"></a>
+  <a align="right" href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="45%"></a>
 </kbd>  
