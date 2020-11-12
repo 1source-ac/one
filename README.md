@@ -9,10 +9,10 @@ Create the digital-physical world of the future in no time.
 
 :bricks: Connect many different system (cars, messenger bots, lights, Office365, ... and many more)\
 :books: Unified data structure across all attached systems\
-:bookmark_tabs: State and History Management\ 
+:bookmark_tabs: State and History Management\
 :partly_sunny: Deploy in cloud or on-premise\
 :left_right_arrow: Scale horizontally\
 :electric_plug: Fully modular\
-:alarm_clock: Fully real-time\ 
+:alarm_clock: Fully real-time\
 :world_map:  REST and GraphQL API\
 :door: Granular access control\
