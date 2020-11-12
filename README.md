@@ -15,7 +15,7 @@
 :electric_plug: **Connects to any web-based system\***\
 :brain: **Complex automation and interaction facilities**\
 :necktie: **Uniform data structure**\
-:floppy_disk: **State and history persistence**\
+:floppy_disk: **Fully transparent history of any event**\
 :star_struck: **Intuitive interface**\
 :chart_with_upwards_trend: **Rich dashboard system**\
 :cityscape: **In-Browser "Digital Twin" Editor**\
