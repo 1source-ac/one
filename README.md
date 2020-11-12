@@ -14,9 +14,10 @@
 
 :bricks: **Connect any system\***\
 :page_with_curl: **Merge systems into uniform structure**\
-:brain: **Complex automation facilities**\
-:chart_with_upwards_trend: **Rich dashboard system**\
 :bookmark_tabs: **State and History Management**\
+:brain: **Employ complex automation facilities**\
+:chart_with_upwards_trend: **Rich dashboard system**\
+:chart_with_upwards_trend: **In-Browser Digital Twin Editor**\
 :alarm_clock: **Fully real-time**\
 :world_map: **REST and GraphQL API**\
 :books: **Client libraries for JavaScript, Go, C++, Arduino and more**\
