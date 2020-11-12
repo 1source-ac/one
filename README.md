@@ -16,7 +16,7 @@
 :brain: **Employ complex automation facilities**\
 :necktie: **Uniform data structure**\
 :floppy_disk: **State and History Management**\
-:star_struck: **Intuitive interface**
+:star_struck: **Intuitive interface**\
 :chart_with_upwards_trend: **Rich dashboard system**\
 :cityscape: **In-Browser "Digital Twin" Editor**\
 :alarm_clock: **Fully real-time**\
