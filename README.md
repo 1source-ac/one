@@ -23,12 +23,12 @@ Enabling the digital-physical world of the future.
 
 ## Screenshots
 <kbd>
-  <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="400" src="https://github.com/janhaa/one/blob/main/thing_state.PNG"></a>
+  <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="450" src="https://github.com/janhaa/one/blob/main/thing_state.PNG"></a>
 </kbd>
 <kbd>
-  <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="400" src="https://github.com/janhaa/one/blob/main/parking_spaces.PNG"></a>
+  <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="450" src="https://github.com/janhaa/one/blob/main/parking_spaces.PNG"></a>
 </kbd>  
 <kbd>
-  <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="400" src="https://github.com/janhaa/one/blob/main/booking.PNG"></a>
+  <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="450" src="https://github.com/janhaa/one/blob/main/booking.PNG"></a>
 </kbd>  
 
