@@ -10,6 +10,7 @@ Create the digital-physical world of the future in no time.
 :bricks: Built-in support for many different system (cars, messenger bots, lights, Office365, ... and many more)\
 :electric_plug: Fully modular and extensible\
 :books: Unified data structure across all attached systems\
+:hammer_and_wrench: Automate interactions between systems\
 :bookmark_tabs: State and History Management\
 :alarm_clock: Fully real-time\
 :world_map: REST and GraphQL API\
