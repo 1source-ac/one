@@ -14,8 +14,8 @@
 
 :electric_plug: **Connects to an abundance of systems\*** _BMW, Telegram, MS Teams, Building Automation, Charging Points, ..._\
 :brain: **Complex automation and cross-interaction facilities** _Chosoe from applications to launch on your infrastructure or build one yourself_\
-:necktie: **Uniform data structure** _All connected systems are laid out and can be addressed in the same way_\
-:floppy_disk: **Fully transparent event history** _Full and secure record of any transaction_\
+:necktie: **Uniform data structure** _All connected systems are addressed and laid out in the same way_\
+:floppy_disk: **Fully transparent event history** _Full record of anything that happened throughout time and space_\
 :star_struck: **Intuitive interface** _Built on-top of modern frontend technologies_\
 :chart_with_upwards_trend: **Rich dashboard system** _Chose from a variety of visual elements to present your infrastructure_\
 :cityscape: **In-Browser "Digital Twin" Editor** _Merge the physical and digital with ease_\
