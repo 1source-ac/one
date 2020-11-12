@@ -12,17 +12,17 @@
 
 ## Key Features
 
-:bricks: <span style="font-size:4em;">Connect anything*</font>\
-:page_with_curl: Unified data structure across all connected systems\
-:brain: Complex automation facilities\
-:chart_with_upwards_trend: Rich dashboard system\
-:bookmark_tabs: State and History Management\
-:alarm_clock: Fully real-time\
-:world_map: REST and GraphQL API\
-:books: Client libraries for JavaScript, Go, C++, Arduino and more\
-:door: Granular access control\
-:left_right_arrow: Scales horizontally\
-:partly_sunny: Deploys to cloud or on-premise
+:bricks: **Connect any system**\
+:page_with_curl: **Unify connected systems into uniform structure**\
+:brain: **Complex automation facilities\
+:chart_with_upwards_trend: **Rich dashboard system\
+:bookmark_tabs: **State and History Management\
+:alarm_clock: **Fully real-time\
+:world_map: **REST and GraphQL API\
+:books: **Client libraries for JavaScript, Go, C++, Arduino and more\
+:door: **Granular access control\
+:left_right_arrow: **Scales horizontally\
+:partly_sunny: **Deploys to cloud or on-premise**
 
 \* 200 integrations built-in; build new ones yourself or [request them here](http://google.com)
 
