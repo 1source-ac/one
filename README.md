@@ -14,7 +14,7 @@
 
 :bricks: **Connect any system\***\
 :brain: **Employ complex automation facilities**\
-:necktie: **All external systems merged into uniform data structure**\
+:necktie: **All entities merged into uniform data structure**\
 :floppy_disk: **State and History Management**\
 :chart_with_upwards_trend: **Rich dashboard system**\
 :chart_with_upwards_trend: **In-Browser "Digital Twin" Editor**\
