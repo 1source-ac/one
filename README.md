@@ -13,7 +13,7 @@
 ## Key Features
 
 :bricks: **Connect any system\***\
-:page_with_curl: **Merge systems into uniform structure**\
+:page_with_curl: **Holds all data in uniform structure**\
 :bookmark_tabs: **State and History Management**\
 :brain: **Employ complex automation facilities**\
 :chart_with_upwards_trend: **Rich dashboard system**\
