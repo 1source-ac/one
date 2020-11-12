@@ -19,7 +19,7 @@
 :chart_with_upwards_trend: **Rich dashboard system**\
 :cityscape: **In-Browser "Digital Twin" Editor**\
 :alarm_clock: **Fully real-time**\
-:world_map: **REST and GraphQL API**\
+:globe_with_meridians: **REST and GraphQL API**\
 :books: **Client libraries for JavaScript, Go, C++, Arduino and more**\
 :door: **Granular access control**\
 :partly_sunny: **Deploys to cloud or on-premise**\
