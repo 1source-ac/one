@@ -21,7 +21,7 @@
 :alarm_clock: **Fully real-time**\
 :globe_with_meridians: **REST and GraphQL API**\
 :books: **Client libraries for JavaScript, Go, C++, Arduino and more**\
-:door: **Granular access control**\
+:closed_lock_with_key: **Granular access control**\
 :partly_sunny: **Deploys to cloud or on-premise**\
 :left_right_arrow: **Scales horizontally**
 
