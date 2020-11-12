@@ -8,10 +8,10 @@ Get creative creating the digital-physical world of the future in no time - with
 ## Key Features
 
 :bricks: Connect many different system (cars, messenger bots, lights, Office365, ... and many more)  
-:books:  Unified data structure across all attached systems  
-:partly_sunny: Cloud or on-premise  
+:books: Unified data structure across all attached systems  
 :bookmark_tabs: State and History Management  
-:left_right_arrow: Highly scalable  
+:partly_sunny: Deploy in cloud or on-premise  
+:left_right_arrow: Scale horizontally 
 :electric_plug: Fully modular  
 :alarm_clock: Fully real-time  
 :world_map:  REST and GraphQL API  
