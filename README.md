@@ -21,8 +21,8 @@
 :world_map: **REST and GraphQL API**\
 :books: **Client libraries for JavaScript, Go, C++, Arduino and more**\
 :door: **Granular access control**\
+:partly_sunny: **Deploys to cloud or on-premise**\
 :left_right_arrow: **Scales horizontally**\
-:partly_sunny: **Deploys to cloud or on-premise**
 
 \* 200 integrations built-in; build new ones yourself or [request them here](http://google.com)
 
