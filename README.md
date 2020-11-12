@@ -7,12 +7,12 @@ Create the digital-physical world of the future in no time.
 
 ## Key Features
 
-:bricks: Connect many different system (cars, messenger bots, lights, Office365, ... and many more)\
+:bricks: Built-in support for many different system (cars, messenger bots, lights, Office365, ... and many more)\
+:electric_plug: Fully modular and extensible\
 :books: Unified data structure across all attached systems\
 :bookmark_tabs: State and History Management\
-:partly_sunny: Deploy in cloud or on-premise\
-:left_right_arrow: Scale horizontally\
-:electric_plug: Fully modular\
 :alarm_clock: Fully real-time\
-:world_map:  REST and GraphQL API\
+:world_map: REST and GraphQL API\
 :door: Granular access control\
+:left_right_arrow: Scales horizontally\
+:partly_sunny: Deploys to cloud or on-premise\
