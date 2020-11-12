@@ -12,7 +12,7 @@
 
 ## Key Features
 
-:electric_plug: **Connects to an abundance of systems\*** *BMW, Telegram, MS Teams, Building Automation, Charging Points, ...\
+:electric_plug: **Connects to an abundance of systems\*** _BMW, Telegram, MS Teams, Building Automation, Charging Points, ..._\
 :brain: **Complex automation and interaction facilities**\
 :necktie: **Uniform data structure**\
 :floppy_disk: **Fully transparent event history**\
