@@ -11,8 +11,8 @@
 
 ## Key Features
 
-:bricks: Attach anything* (cars, messenger bots, lights, Office365, ... and many more)\
-:page_with_curl: Unified data structure across all attached systems\
+:bricks: Connect anything*\
+:page_with_curl: Unified data structure across all connected systems\
 :electric_plug: Fully modular and extensible\
 :brain: Complex automation\
 :chart_with_upwards_trend: Complex dashboards\
