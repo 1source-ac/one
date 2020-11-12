@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Enabling the <b>digital-physical world</b> of the future.
+  Enabling the **digital-physical world** of the future.
 </h3>
 
 ## Key Features
