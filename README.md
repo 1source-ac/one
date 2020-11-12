@@ -13,11 +13,11 @@
 ## Key Features
 
 :bricks: **Connect any system\***\
-:page_with_curl: **Holds all data in uniform structure**\
-:bookmark_tabs: **State and History Management**\
 :brain: **Employ complex automation facilities**\
+:page_with_curl: **All external systems merged into uniform data structure**\
+:bookmark_tabs: **State and History Management**\
 :chart_with_upwards_trend: **Rich dashboard system**\
-:chart_with_upwards_trend: **In-Browser Digital Twin Editor**\
+:chart_with_upwards_trend: **In-Browser "Digital Twin" Editor**\
 :alarm_clock: **Fully real-time**\
 :world_map: **REST and GraphQL API**\
 :books: **Client libraries for JavaScript, Go, C++, Arduino and more**\
