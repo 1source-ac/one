@@ -13,7 +13,7 @@
 ## Key Features
 
 :electric_plug: **Connects to an abundance of systems\*** _BMW, Telegram, MS Teams, Building Automation, Charging Points, ..._\
-:brain: **Complex automation and cross-interaction facilities** _Choose from applications to launch on top of your infrastructure or build one yourself._\
+:brain: **Complex automation and cross-interaction facilities** _Booking system, chat bots, notifications, PID control, ... _\
 :necktie: **Uniform data structure** _All connected systems are addressed and laid out in the same way._\
 :floppy_disk: **Fully transparent event history** _Full record of anything that happened throughout time and space._\
 :star_struck: **Intuitive interface** _Built on-top of modern frontend technologies and frameworks._\
