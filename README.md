@@ -8,7 +8,7 @@ Get creative creating the digital-physical future in no time - with ONE.source
 ## Key Features :old_key:
 
 :bricks: Connect many different system (cars, messenger bots, lights, Office365, ... and many more)  
-:books: Unified data structure across all attached systems  
+:books:  Unified data structure across all attached systems  
 :partly_sunny: Cloud or on-premise  
 :bookmark_tabs: State and History Management  
 :left_right_arrow: Highly scalable  
