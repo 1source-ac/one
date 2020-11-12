@@ -9,14 +9,17 @@
 
 ## Key Features
 
+## Key Features
+
 :bricks: Attach anything* (cars, messenger bots, lights, Office365, ... and many more)\
-:books: Unified data structure across all attached systems\
+:page_with_curl: Unified data structure across all attached systems\
 :electric_plug: Fully modular and extensible\
-:chains: Complex automation\
-:desktop_computer: Complex dashboards\
+:brain: Complex automation\
+:chart_with_upwards_trend: Complex dashboards\
 :bookmark_tabs: State and History Management\
 :alarm_clock: Fully real-time\
 :world_map: REST and GraphQL API\
+:books: Client libraries for JavaScript, Go, C++, Arduino and more\
 :door: Granular access control\
 :left_right_arrow: Scales horizontally\
 :partly_sunny: Deploys to cloud or on-premise\
