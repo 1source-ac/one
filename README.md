@@ -12,7 +12,7 @@
 
 ## Key Features
 
-:bricks: Connect anything*\
+:bricks: <span style="font-family:Papyrus; font-size:4em;">Connect anything*</font>\
 :page_with_curl: Unified data structure across all connected systems\
 :brain: Complex automation facilities\
 :chart_with_upwards_trend: Rich dashboard system\
