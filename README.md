@@ -12,7 +12,7 @@
 
 ## Key Features
 
-:bricks: **Connect any system* **\
+:bricks: ** Connect any system* **\
 :page_with_curl: **Unify connected systems into uniform structure**\
 :brain: **Complex automation facilities**\
 :chart_with_upwards_trend: **Rich dashboard system**\
