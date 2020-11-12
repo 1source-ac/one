@@ -13,15 +13,15 @@
 ## Key Features
 
 :electric_plug: **Connects to an abundance of systems\*** _BMW, Telegram, MS Teams, Building Automation, Charging Points, ..._\
-:brain: **Complex automation and cross-interaction facilities** _Chosoe from applications to launch on your infrastructure or build one yourself_\
-:necktie: **Uniform data structure** _All connected systems are addressed and laid out in the same way_\
-:floppy_disk: **Fully transparent event history** _Full record of anything that happened throughout time and space_\
-:star_struck: **Intuitive interface** _Built on-top of modern frontend technologies_\
-:chart_with_upwards_trend: **Rich dashboard system** _Chose from a variety of visual elements to present your infrastructure_\
-:cityscape: **In-Browser "Digital Twin" Editor** _Merge the physical and digital with ease_\
-:alarm_clock: **Fully real-time** _Know what's happening as it's happening_\
-:globe_with_meridians: **REST and GraphQL API** _Connect to third-party systems without over-fetching_\
-:books: **Client libraries for Node, Go, C++, Arduino and more** _Tightly integrate into your favorite environment_\
+:brain: **Complex automation and cross-interaction facilities** _Choose from applications to launch on your infrastructure or build one yourself._\
+:necktie: **Uniform data structure** _All connected systems are addressed and laid out in the same way._\
+:floppy_disk: **Fully transparent event history** _Full record of anything that happened throughout time and space._\
+:star_struck: **Intuitive interface** _Built on-top of modern frontend technologies._\
+:chart_with_upwards_trend: **Rich dashboard system** _Chose from a variety of visual elements to present your infrastructure._\
+:cityscape: **In-Browser "Digital Twin" Editor** _Merge the physical and digital with ease._\
+:alarm_clock: **Fully real-time** _Know what's happening as it's happening._\
+:globe_with_meridians: **REST and GraphQL API** _Connect to third-party systems without over-fetching._\
+:books: **Client libraries for Node, Go, C++, Arduino and more** _Tightly integrate into your favorite environment._\
 :closed_lock_with_key: **Granular access control**\
 :partly_sunny: **Deploys to cloud or on-premise**\
 :left_right_arrow: **Scales horizontally**
