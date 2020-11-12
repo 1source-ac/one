@@ -36,5 +36,9 @@
 </kbd>  
 <kbd>
   <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="450" src="https://github.com/janhaa/one/blob/main/booking.PNG"></a>
-</kbd>  
+</kbd>
+<kbd>
+  ![](https://github.com/janhaa/one/blob/main/editor.gif)
+</kbd>
+
 
