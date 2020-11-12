@@ -12,8 +12,8 @@
 
 ## Key Features
 
-:electric_plug: **Connect any system\***\
-:brain: **Employ complex automation facilities**\
+:electric_plug: **Connects with any system\***\
+:brain: **Complex automation facilities**\
 :necktie: **Uniform data structure**\
 :floppy_disk: **State and History Management**\
 :star_struck: **Intuitive interface**\
