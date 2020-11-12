@@ -7,15 +7,15 @@
   Enabling the digital-physical world of the future.
 </h3>
 
-## Key Features
+## Summary
+
 
 ## Key Features
 
 :bricks: Connect anything*\
 :page_with_curl: Unified data structure across all connected systems\
-:electric_plug: Fully modular and extensible\
-:brain: Complex automation\
-:chart_with_upwards_trend: Complex dashboards\
+:brain: Complex automation facilities\
+:chart_with_upwards_trend: Rich dashboard system\
 :bookmark_tabs: State and History Management\
 :alarm_clock: Fully real-time\
 :world_map: REST and GraphQL API\
