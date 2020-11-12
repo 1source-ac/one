@@ -8,7 +8,7 @@
 </h3>
 
 ## Summary
-
+ONE.source - in short - is a full-fledged software suite, allowing to connect services, sensors, and external platforms, monitor them and implement automation tasks. 
 
 ## Key Features
 
