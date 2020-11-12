@@ -24,7 +24,7 @@
 :left_right_arrow: Scales horizontally\
 :partly_sunny: Deploys to cloud or on-premise\
 
-\* 200 integrations built-in; new integrations ready in no time on-demand [(contact us)](http://google.com)
+\* 200 integrations built-in; build new ones yourself or [request them here](http://google.com)
 
 ## Screenshots
 <kbd>
