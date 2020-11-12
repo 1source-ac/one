@@ -12,7 +12,7 @@
 
 ## Key Features
 
-:electric_plug: **Connects with any system\***\
+:electric_plug: **Connects to any web-based system\***\
 :brain: **Complex automation facilities**\
 :necktie: **Uniform data structure**\
 :floppy_disk: **State and History Management**\
