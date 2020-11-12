@@ -13,13 +13,13 @@
 ## Key Features
 
 :electric_plug: **Connects to an abundance of systems\*** _BMW, Telegram, MS Teams, Building Automation, Charging Points, ..._\
-:brain: **Complex automation and interaction facilities**\
-:necktie: **Uniform data structure**\
-:floppy_disk: **Fully transparent event history**\
-:star_struck: **Intuitive interface**\
-:chart_with_upwards_trend: **Rich dashboard system**\
+:brain: **Complex automation and interaction facilities**\ _Chose from a multitude of applications to launch on your infrastructure or build one yourself_
+:necktie: **Uniform data structure**\ _All connected systems are laid out and can be addressed in the same way_
+:floppy_disk: **Fully transparent event history**\ _Full and secure record of any transaction_
+:star_struck: **Intuitive interface**\ _Built on-top of modern frontend technologies_
+:chart_with_upwards_trend: **Rich dashboard system**\ _Chose from a variety of ways to present your infrastructure_
 :cityscape: **In-Browser "Digital Twin" Editor**\
-:alarm_clock: **Fully real-time**\
+:alarm_clock: **Fully real-time**\ _Know what's happening in real-time_
 :globe_with_meridians: **REST and GraphQL API**\
 :books: **Client libraries for Node, Go, C++, Arduino and more**\
 :closed_lock_with_key: **Granular access control**\
