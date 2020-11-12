@@ -7,8 +7,7 @@
   Simplifying the high-performance digital-physical world.
 </h3>
 
-## Summary
-ONE.source is a full-fledged software suite, allowing to connect services, sensors, and external platforms, monitor them and implement automation tasks. 
+## Motivation
 
 ## Key Features
 
