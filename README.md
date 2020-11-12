@@ -18,4 +18,6 @@ Create the digital-physical world of the future in no time.
 :partly_sunny: Deploys to cloud or on-premise\
 
 ## Screenshots
-<a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img style="border: 1px solid black;" src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="600"></a>
+<kbd>
+  <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img src="https://github.com/janhaa/one/blob/main/thing_state.PNG" width="600"></a>
+</kbd>  
