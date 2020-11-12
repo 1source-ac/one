@@ -41,4 +41,6 @@
 
 ![](editor.gif)
 
+## Demo
+[Request a personalized demo for free.](http://google.com)
 
