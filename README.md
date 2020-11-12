@@ -12,7 +12,7 @@
 
 ## Key Features
 
-:bricks: **Connect any system\***\
+:electric_plug: **Connect any system\***\
 :brain: **Employ complex automation facilities**\
 :necktie: **All entities merged into uniform data structure**\
 :floppy_disk: **State and History Management**\
