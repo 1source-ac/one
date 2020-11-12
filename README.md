@@ -13,7 +13,7 @@
 
 :electric_plug: **Connects to an abundance of systems\*** _BMW, Telegram, MS Teams, Building Automation, Charging Points, ..._\
 :brain: **Complex automation and cross-interaction facilities** _Booking, chat bots, notifications, alarms,  ..._\
-:necktie: **Uniform data structure** _All connected systems are addressed and laid out in the same way._\
+:necktie: **Strongly-typed, uniform data structure** _All connected systems are addressed and laid out in the same way._\
 :floppy_disk: **Fully transparent event history** _Full record of anything that happened throughout time and space._\
 :star_struck: **Intuitive interface** _Built on-top of modern frontend technologies and frameworks._\
 :chart_with_upwards_trend: **Rich dashboard system** _Chose from a variety of visual elements to present your infrastructure._\
