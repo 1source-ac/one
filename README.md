@@ -5,10 +5,10 @@
 
 ## Key Features :old_key:
 
-* Attaching many different system (cars, messenger bots, lights, Office365, ... and many more) :bricks:
+:bricks: Attaching many different system (cars, messenger bots, lights, Office365, ... and many more)
 * Unified data structure across all attached systems
-* State and History Management :bookmark_tabs:
-* Fully modular :electric_plug:
-* Fully real-time :alarm_clock:
-* REST and GraphQL API :world_map: 
+:bookmark_tabs: State and History Management 
+:electric_plug: Fully modular 
+:alarm_clock: Fully real-time 
+:world_map:  REST and GraphQL API 
 * Access control 
