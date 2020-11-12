@@ -7,9 +7,13 @@
 
 :bricks: Attaching many different system (cars, messenger bots, lights, Office365, ... and many more)
 
-* Unified data structure across all attached systems
+:books: Unified data structure across all attached systems
+
+:partly_sunny: Cloud or on-premise
 
 :bookmark_tabs: State and History Management 
+
+:left_right_arrow: Highly scalable
 
 :electric_plug: Fully modular 
 
@@ -17,4 +21,4 @@
 
 :world_map:  REST and GraphQL API 
 
-* Access control 
+:door: Granular access control 
