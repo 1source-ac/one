@@ -14,7 +14,7 @@
 
 :electric_plug: **Connect any system\***\
 :brain: **Employ complex automation facilities**\
-:necktie: **All entities merged into uniform data structure**\
+:necktie: **Uniform data structure**\
 :floppy_disk: **State and History Management**\
 :chart_with_upwards_trend: **Rich dashboard system**\
 :cityscape: **In-Browser "Digital Twin" Editor**\
