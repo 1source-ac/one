@@ -21,6 +21,8 @@ Enabling the digital-physical world of the future.
 :left_right_arrow: Scales horizontally\
 :partly_sunny: Deploys to cloud or on-premise\
 
+* 200 integrations built-in; rapidly build new integrations on-demand [(contact us)](http://google.com)
+
 ## Screenshots
 <kbd>
   <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="450" src="https://github.com/janhaa/one/blob/main/thing_state.PNG"></a>
