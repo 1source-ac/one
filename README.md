@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Simplifying the digital-physical world of the future.
+  Simplifying the high-performance digital-physical world.
 </h3>
 
 ## Summary
