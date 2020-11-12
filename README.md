@@ -18,10 +18,10 @@
 :floppy_disk: **Fully transparent event history** _Full and secure record of any transaction_\
 :star_struck: **Intuitive interface** _Built on-top of modern frontend technologies_\
 :chart_with_upwards_trend: **Rich dashboard system** _Chose from a variety of visual elements to present your infrastructure_\
-:cityscape: **In-Browser "Digital Twin" Editor**\
+:cityscape: **In-Browser "Digital Twin" Editor** _Merge the physical and digital with ease_\
 :alarm_clock: **Fully real-time** _Know what's happening as it's happening_\
-:globe_with_meridians: **REST and GraphQL API**\
-:books: **Client libraries for Node, Go, C++, Arduino and more**\
+:globe_with_meridians: **REST and GraphQL API** _Connect to third-party systems without over-fetching_\
+:books: **Client libraries for Node, Go, C++, Arduino and more** _Tightly integrate into your favorite environment_\
 :closed_lock_with_key: **Granular access control**\
 :partly_sunny: **Deploys to cloud or on-premise**\
 :left_right_arrow: **Scales horizontally**
