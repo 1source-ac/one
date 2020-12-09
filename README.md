@@ -38,6 +38,12 @@
   <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="450" src="https://github.com/janhaa/one/blob/main/booking.PNG"></a>
 </kbd>
 
+<kbd>
+  <a href="https://github.com/janhaa/one/blob/main/Screenshot_20201209_115604.png"><img width="450" src="https://github.com/janhaa/one/blob/main/Screenshot_20201209_115604.png"></a>
+</kbd>
+
+
+
 ![](editor.gif)
 
 ## Demo
