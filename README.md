@@ -15,7 +15,7 @@
 :brain: **Complex automation and cross-interaction facilities** _Booking, chat bots, notifications, alarms,  ..._\
 :necktie: **Strongly-typed, uniform data structure** _All connected systems are addressed and laid out in the same way._\
 :floppy_disk: **Fully transparent event history** _Full record of anything that happened throughout time and space._\
-:star_struck: **Intuitive interface** _Built on-top of modern frontend technologies and frameworks._\
+:star_struck: **Intuitive interface** _Built on-top of modern, battle-tested technologies and frameworks._\
 :chart_with_upwards_trend: **Rich dashboard system** _Chose from a variety of visual elements to present your infrastructure._\
 :cityscape: **In-Browser "Digital Twin" Editor** _Merge the physical and digital with ease._\
 :alarm_clock: **Fully real-time** _Know what's happening as it's happening._\
