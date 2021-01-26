@@ -28,6 +28,7 @@
 \* x integrations built-in; build new ones yourself or [request them here](http://google.com)
 
 ## Screenshots
+![](editor.gif)
 <kbd>
   <a href="https://github.com/janhaa/one/blob/main/thing_state.PNG"><img width="450" src="https://github.com/janhaa/one/blob/main/thing_state.PNG"></a>
 </kbd>
@@ -44,7 +45,7 @@
 
 
 
-![](editor.gif)
+
 
 ## Demo
 [Request a personalized demo for free.](http://google.com)
